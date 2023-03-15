@@ -1,0 +1,14 @@
+package src4;
+
+public class Example6 {
+
+	public static void main(String[] args) {
+		//java 12 이상 버전에 추가된 switch문: -> (yield)
+		
+		float num1 = (float) Math.random();
+		int num = (int) Math.random();
+		System.out.println("임의의 수 [1~6]: "+num);
+
+	}
+
+}

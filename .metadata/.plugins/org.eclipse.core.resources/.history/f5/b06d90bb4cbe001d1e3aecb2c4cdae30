@@ -1,0 +1,17 @@
+package src1;
+
+public class Example5 {
+
+	public static void main(String[] args) {
+		//논리 연산자: &&(And), ||(Or), !(Not)
+		
+		int a = 27;
+		int b = 24;
+		
+		System.out.println("a>25 && b>25: "+(a<25 && b>25));	//두 조건을 모두 만족했을 때만 참이 나옴
+		System.out.println("a>25 && b>25: "+(a>25 && b>25));
+		
+
+	}
+
+}

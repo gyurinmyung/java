@@ -1,0 +1,16 @@
+package src4;
+
+public class Example6 {
+
+	public static void main(String[] args) {
+		//java 12 이상 버전에 추가된 switch문: -> (yield)
+		
+		float num1 = (float) Math.random();			//.random: 0~1의 실수를 구하는 메소드
+		int num = (int) Math.random();				//1~6의 무작위 임의의 수를 대입
+		System.out.println("임의의 수 [1~6]: "+num);
+		
+		
+
+	}
+
+}

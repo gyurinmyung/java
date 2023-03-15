@@ -1,0 +1,13 @@
+package src4;
+
+public class Example {
+
+	public static void main(String[] args) {
+		//제어문: 조건분기문, 반복문, 기타 제어문으로  구성. 프로그램 실행의 흐름을 제어하는 문장
+		//조건분기문: 입력되는 데이터의 조건 만족 여부에 따라 실행 내용을 달리 하도록 하는 문장
+		//
+		
+		
+	}
+
+}

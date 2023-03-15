@@ -1,0 +1,45 @@
+package src4;
+
+import java.util.Scanner;
+
+public class Example2 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		
+		System.out.println("번호 입력(1-10): ");
+		int bun = sc.nextInt();
+		
+		System.out.println("국어 점수 입력(1-100): ");
+		int kor = sc.nextInt();
+		
+		System.out.println("수학 점수 입력(1-100): ");
+		int mat = sc.nextInt();
+		
+		System.out.println("영어 점수 입력(1-100): ");
+		int eng = sc.nextInt();
+		
+		int tot = kor + eng + mat;
+		double avg = tot / 3.0f;
+		
+		//판정(pan)은 국어, 수학, 영어 각 과목의 점수가 60점 이상, 평균이 80점 이상이면 "합격". 아니면 "불합격"
+		//if~else~문
+		String pan = "", remark = "";
+		if(kor>=60 && mat>=60 && eng>=60 && avg>=80) {
+			pan = "합격";
+		} else {
+			pan = "불합격";
+		}
+		
+		//참고(remark)는 국어, 수학, 영어 점수 중 하나라도 90 이상이면 "과목 우수", 아니면  "" 처리
+		
+		String hak = "";
+		//if~else if~else~ 문
+		
+		
+		
+
+	}
+
+}

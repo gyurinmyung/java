@@ -1,0 +1,11 @@
+package sec2;
+
+public class Example1 {
+
+	public static void main(String[] args) {
+		//반복실행문: 특정 조건이 만족하는 동안 반복 실행하는 문장
+		//for, while, do while
+
+	}
+
+}

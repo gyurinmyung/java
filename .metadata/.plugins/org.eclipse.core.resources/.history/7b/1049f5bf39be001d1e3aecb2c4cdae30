@@ -1,0 +1,13 @@
+package sec4;
+
+public class Var9 {
+
+	public static void main(String[] args) {
+		//9번
+
+		byte byteValue = 10;
+		float floatValue =2.5F;
+		
+	}
+
+}

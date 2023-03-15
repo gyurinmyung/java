@@ -1,0 +1,23 @@
+package src1;
+
+public class Example4 {
+
+	public static void main(String[] args) {
+		//비교 연산자: ==(같다), !=(같지 않다), >(크다), >=(이상), <(작다), <=(이하)
+		//연산 결과는 true 아니면  false로 나옴
+		
+		int a = 15;
+		int b = 17;
+		String c = "명규린";
+		String d = "명규린";
+		System.out.println("a==b: "+(a==b));
+		System.out.println("a!=b: "+(a!=b));
+		System.out.println("a>b: "+(a>b));
+		System.out.println("a>=b: "+(a>=b));
+		System.out.println("a<b: "+(a<b));
+		System.out.println("a<=b: "+(a<=b));
+		
+
+	}
+
+}

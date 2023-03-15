@@ -1,0 +1,32 @@
+package src4;
+
+public class Example5 {
+
+	public static void main(String[] args) {
+		
+		String sw = "O";
+		
+		switch (sw) {
+			case "a":
+			case "A":
+				System.out.println("당신의 혈액형은 A형입니다.");
+				break;
+			case "b":
+			case "B":
+				System.out.println("당신의 혈액형은 B형입니다.");
+				break;
+			case "ab":
+			case "AB":
+			case "Ab":
+			case "aB":
+				System.out.println("당신의 혈액형은 AB형입니다.");
+				break;
+			case "o":
+			case "O":
+				System.out.println("당신의 혈액형은 O형입니다.");
+				break;
+		}
+
+	}
+
+}

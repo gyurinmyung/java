@@ -1,0 +1,14 @@
+package src1;
+
+public class Example3 {
+
+	public static void main(String[] args) {
+		//부호 연산자 및 증감 연산자
+
+		int a = 30;
+		int b = 50;
+		int c = a - b;
+		
+	}
+
+}

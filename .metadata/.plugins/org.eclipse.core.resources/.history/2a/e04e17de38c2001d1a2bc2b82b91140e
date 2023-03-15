@@ -1,0 +1,13 @@
+package sec2;
+
+public class Example4 {
+
+	public static void main(String[] args) {
+		//while문을 활용한 1~100의 합계
+		
+		int i = 0;
+		int sum1 = 0, sum2 = 0;
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package sec2;
+
+public class Example3 {
+
+	public static void main(String[] args) {
+		//구구단 출력 (2단부터 9단까지) - 중첩 for문 활용
+		
+		int i = 0;
+
+	}
+
+}

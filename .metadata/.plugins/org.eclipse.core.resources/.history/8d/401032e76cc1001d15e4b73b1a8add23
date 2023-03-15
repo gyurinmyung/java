@@ -1,0 +1,17 @@
+package src4;
+
+public class Example2 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		//if~else~문
+		
+		//if~else if~else~ 문
+		
+		
+		
+
+	}
+
+}

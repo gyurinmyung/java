@@ -1,0 +1,12 @@
+package src4;
+
+public class Example6 {
+
+	public static void main(String[] args) {
+		//java 12 이상 버전에 추가된 switch문: -> (yield)
+		
+		
+
+	}
+
+}
